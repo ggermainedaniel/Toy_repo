@@ -7,6 +7,7 @@ Here is a line added using Github,
 	Some Chapter 1 text
 
 # Chapter 2
+	Some Chapter 2 text
 
 # Chapter 3
 
