@@ -1,6 +1,7 @@
 # training_repo
 
 A repo for learning Git
+Here is a line added using Github,
 
 # Chapter 1
 
